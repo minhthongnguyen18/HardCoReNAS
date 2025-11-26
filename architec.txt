@@ -1,0 +1,1 @@
+[['ds_r1_k3_s1_e1_c16_nre'], ['ir_r1_k3_s2_e3_c24_nre', 'ir_r1_k3_s1_e3_c24_nre'], ['ir_r1_k3_s2_e3_c40_nre', 'ir_r1_k3_s1_e3_c40_nre_se0.25'], ['ir_r1_k3_s2_e3_c80', 'ir_r1_k3_s1_e3_c80'], ['ir_r1_k3_s1_e3_c112', 'ir_r1_k3_s1_e3_c112'], ['ir_r1_k3_s2_e3_c192', 'ir_r1_k3_s1_e3_c192'], ['cn_r1_k1_s1_c960']]
